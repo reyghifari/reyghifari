@@ -27,21 +27,21 @@ If you are interested in getting to know me, please follow the account [Linkedin
 [Kotlin Programming](https://www.dicoding.com/certificates/EYX473O06XDL) | 
 [Solid Paradigma](https://www.dicoding.com/certificates/2VX31WNW4ZYQ) | 
 [UX Design](https://www.dicoding.com/certificates/1RXYM4V69XVM)
-<br/>
----
-
-### ✉️ Contact Me
-
-[<img align="left" src='https://www.svgrepo.com/show/452213/gmail.svg' alt='gmail' height='40'>](mailto:raihan.ghifari1603@gmail.com) [<img align="left" src='https://www.svgrepo.com/show/452051/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kgs-m-raihan-ghifari-2602a5209/) [<img align="left" src='https://www.svgrepo.com/show/452231/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raihnghifari/)
+<br/><br/>
 
 ---
-<br/>
 <p align="left">
 <a href="https://github.com/reyyghifari">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reyghifari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reyghifari&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br/><br/>
+
+---
+### ✉️ Contact Me
+
+[<img align="left" src='https://www.svgrepo.com/show/452213/gmail.svg' alt='gmail' height='40'>](mailto:raihan.ghifari1603@gmail.com) [<img align="left" src='https://www.svgrepo.com/show/452051/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kgs-m-raihan-ghifari-2602a5209/) [<img align="left" src='https://www.svgrepo.com/show/452231/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raihnghifari/)
 
 <!--
 **reyghifari/reyghifari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
