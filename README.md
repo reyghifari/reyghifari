@@ -18,8 +18,7 @@ If you are interested in getting to know me, please follow the account [Linkedin
 <img align="left" alt="Circle CI" width="40px" style="padding-right:40px;" src="https://mms.businesswire.com/media/20221116005775/en/821662/23/circle-logo-horizontal-black_%281%29.jpg"/>
 
 
-<br/>
------
+---
 ### 📜 Certifications
 
 [Google Associate Android Developer](https://www.credential.net/71c5c594-cbcc-42b9-8c28-169f6869b14b?key=d5d65b2c442cb300a2cb52d4a60dd24ef0c8a2e397caa7a5050b8996d107157a) | 
