@@ -16,7 +16,9 @@ If you are interested in getting to know me, please follow the account [Linkedin
 <img align="left" alt="Firebase" width="40px" style="padding-right:40px;" src="https://www.gstatic.com/devrel-devsite/prod/v71aa34ff497d3466ac0b9a9c7f271f4ec4877f277daabf51c5b59f725a1b70c7/firebase/images/lockup.svg"/>
 <img align="left" alt="Midtrans" width="40px" style="padding-right:40px;" src="https://midtrans.com/assets/img/logo.svg?v=1676436294"/>
 <img align="left" alt="Circle CI" width="40px" style="padding-right:40px;" src="https://mms.businesswire.com/media/20221116005775/en/821662/23/circle-logo-horizontal-black_%281%29.jpg"/>
-<br/><br/>
+
+
+<br/>
 -----
 ### 📜 Certifications
 
@@ -28,6 +30,7 @@ If you are interested in getting to know me, please follow the account [Linkedin
 [UX Design](https://www.dicoding.com/certificates/1RXYM4V69XVM)
 <br/>
 ---
+
 ### ✉️ Contact Me
 
 [<img align="left" src='https://www.svgrepo.com/show/452213/gmail.svg' alt='gmail' height='40'>](mailto:raihan.ghifari1603@gmail.com) [<img align="left" src='https://www.svgrepo.com/show/452051/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kgs-m-raihan-ghifari-2602a5209/) [<img align="left" src='https://www.svgrepo.com/show/452231/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raihnghifari/)
