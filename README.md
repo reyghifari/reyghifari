@@ -16,8 +16,8 @@ If you are interested in getting to know me, please follow the account [Linkedin
 <img align="left" alt="Firebase" width="40px" style="padding-right:40px;" src="https://www.gstatic.com/devrel-devsite/prod/v71aa34ff497d3466ac0b9a9c7f271f4ec4877f277daabf51c5b59f725a1b70c7/firebase/images/lockup.svg"/>
 <img align="left" alt="Midtrans" width="40px" style="padding-right:40px;" src="https://midtrans.com/assets/img/logo.svg?v=1676436294"/>
 <img align="left" alt="Circle CI" width="40px" style="padding-right:40px;" src="https://mms.businesswire.com/media/20221116005775/en/821662/23/circle-logo-horizontal-black_%281%29.jpg"/>
-<br/>
----
+<br/><br/>
+-----
 ### 📜 Certifications
 
 [Google Associate Android Developer](https://www.credential.net/71c5c594-cbcc-42b9-8c28-169f6869b14b?key=d5d65b2c442cb300a2cb52d4a60dd24ef0c8a2e397caa7a5050b8996d107157a) | 
