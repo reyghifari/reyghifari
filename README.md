@@ -8,6 +8,13 @@ I have a degree [Google Associate Android Developer](https://www.credential.net/
 
 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/kgs-m-raihan-ghifari-2602a5209/) yaa.
 
+<p align="left">
+<a href="https://github.com/reyyghifari">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reyghifari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reyghifari&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **reyghifari/reyghifari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
