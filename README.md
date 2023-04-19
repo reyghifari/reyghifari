@@ -36,8 +36,7 @@ If you are interested in getting to know me, please follow the account [Linkedin
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reyghifari&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<br/><br/>
-
+<br/>
 ---
 ### ✉️ Contact Me
 
