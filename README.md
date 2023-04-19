@@ -37,6 +37,7 @@ If you are interested in getting to know me, please follow the account [Linkedin
 </a>
 </p>
 <br/>
+
 ---
 ### ✉️ Contact Me
 
