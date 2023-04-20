@@ -14,6 +14,8 @@ If you are interested in getting to know me, please follow the account [Linkedin
 <img align="left" alt="Kotlin" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 <img align="left" alt="Android" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
 <img align="left" alt="Firebase" width="40px" style="padding-right:40px;" src="https://www.gstatic.com/devrel-devsite/prod/v71aa34ff497d3466ac0b9a9c7f271f4ec4877f277daabf51c5b59f725a1b70c7/firebase/images/lockup.svg"/>
+<img align="left" alt="Google Cloud" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+<img align="left" alt="MySQL" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="Midtrans" width="40px" style="padding-right:40px;" src="https://midtrans.com/assets/img/logo.svg?v=1676436294"/>
 <img align="left" alt="Circle CI" width="40px" style="padding-right:40px;" src="https://mms.businesswire.com/media/20221116005775/en/821662/23/circle-logo-horizontal-black_%281%29.jpg"/>
 <br/> <br/>
